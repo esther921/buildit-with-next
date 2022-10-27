@@ -1,3 +1,5 @@
+/* eslint-disable jsx-a11y/alt-text */
+/* eslint-disable @next/next/no-img-element */
 export default function About_us_head_pictures() {
     return <>
          <div className="text-primary">
